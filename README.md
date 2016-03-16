@@ -1,6 +1,6 @@
 # Project  WalmartApi
 ------------------------
-Object of the Oroject ::
+Object of the Project ::
 ------------------------
 This project is regarding Walmart product search API implementations. User will enter the product name and get the result.
 In result will get the first product from the search and ten recommendations for that projecr
